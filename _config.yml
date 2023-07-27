@@ -83,13 +83,12 @@ author:
   name             : "Dr. Erin Heerey"
   avatar           : "img1.jpeg"
   bio              : "Associate Professor"
-  location         : "Western University"
-  employer         :
+  location         :
+  employer         : "Western University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=UEJ4b-sAAAAJ&hl=en"
-  email            :
+  email            : eheerey@uwo.ca
   researchgate     : "https://www.researchgate.net/profile/Erin-Heerey"
-  osf              : "https://osf.io/p6n3b"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -104,6 +103,7 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0001-6558-9563"
+  osf              : "https://osf.io/p6n3b"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
