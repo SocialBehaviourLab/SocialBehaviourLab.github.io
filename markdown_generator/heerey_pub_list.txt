@@ -1,0 +1,403 @@
+@article{beer2003regulatory,
+  title={The regulatory function of self-conscious emotion: insights from patients with orbitofrontal damage.},
+  author={Beer, Jennifer S and Heerey, Erin A and Keltner, Dacher and Scabini, Donatella and Knight, Robert T},
+  journal={Journal of personality and social psychology},
+  volume={85},
+  number={4},
+  pages={594},
+  year={2003},
+  publisher={American Psychological Association}
+}
+
+@article{keltner1998teasing,
+  title={Teasing in hierarchical and intimate relations.},
+  author={Keltner, Dacher and Young, Randall C and Heerey, Erin A and Oemig, Carmen and Monarch, Natalie D},
+  journal={Journal of personality and social psychology},
+  volume={75},
+  number={5},
+  pages={1231},
+  year={1998},
+  publisher={American Psychological Association}
+}
+
+@article{keltner2001just,
+  title={Just teasing: a conceptual analysis and empirical review.},
+  author={Keltner, Dacher and Capps, Lisa and Kring, Ann M and Young, Randall C and Heerey, Erin A},
+  journal={Psychological bulletin},
+  volume={127},
+  number={2},
+  pages={229},
+  year={2001},
+  publisher={American Psychological Association}
+}
+
+@article{kolden2002pilot,
+  title={A pilot study of group exercise training (GET) for women with primary breast cancer: feasibility and health benefits},
+  author={Kolden, Gregory G and Strauman, Timothy J and Ward, Ann and Kuta, Jackie and Woods, Teresa E and Schneider, Kristin L and Heerey, Erin and Sanborn, Lisa and Burt, Cathy and Millbrandt, Lisa and others},
+  journal={Psycho-Oncology: Journal of the Psychological, Social and Behavioral Dimensions of Cancer},
+  volume={11},
+  number={5},
+  pages={447--456},
+  year={2002},
+  publisher={John Wiley \& Sons, Ltd. Chichester, UK}
+}
+
+@article{gold2008reward,
+  title={Reward processing in schizophrenia: a deficit in the representation of value},
+  author={Gold, James M and Waltz, James A and Prentice, Kristen J and Morris, Sarah E and Heerey, Erin A},
+  journal={Schizophrenia bulletin},
+  volume={34},
+  number={5},
+  pages={835--847},
+  year={2008},
+  publisher={Oxford University Press}
+}
+
+@article{heerey2007patients,
+  title={Patients with schizophrenia demonstrate dissociation between affective experience and motivated behavior.},
+  author={Heerey, Erin A and Gold, James M},
+  journal={Journal of abnormal psychology},
+  volume={116},
+  number={2},
+  pages={268},
+  year={2007},
+  publisher={American Psychological Association}
+}
+
+@article{heerey2003making,
+  title={Making sense of self-conscious emotion: linking theory of mind and emotion in children with autism.},
+  author={Heerey, Erin A and Keltner, Dacher and Capps, Lisa M},
+  journal={Emotion},
+  volume={3},
+  number={4},
+  pages={394},
+  year={2003},
+  publisher={American Psychological Association}
+}
+
+@article{heerey2007delay,
+  title={Delay discounting in schizophrenia},
+  author={Heerey, Erin A and Robinson, Benjamin M and McMahon, Robert P and Gold, James M},
+  journal={Cognitive neuropsychiatry},
+  volume={12},
+  number={3},
+  pages={213--221},
+  year={2007},
+  publisher={Taylor \& Francis Group}
+}
+
+@article{heerey2008decision,
+  title={Decision-making impairments in the context of intact reward sensitivity in schizophrenia},
+  author={Heerey, Erin A and Bell-Warren, Kimberly R and Gold, James M},
+  journal={Biological psychiatry},
+  volume={64},
+  number={1},
+  pages={62--69},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{heerey2007interpersonal,
+  title={Interpersonal consequences of social anxiety.},
+  author={Heerey, Erin A and Kring, Ann M},
+  journal={Journal of abnormal psychology},
+  volume={116},
+  number={1},
+  pages={125},
+  year={2007},
+  publisher={American Psychological Association}
+}
+
+@article{morris2008learning,
+  title={Learning-related changes in brain activity following errors and performance feedback in schizophrenia},
+  author={Morris, Sarah E and Heerey, Erin A and Gold, James M and Holroyd, Clay B},
+  journal={Schizophrenia research},
+  volume={99},
+  number={1-3},
+  pages={274--285},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{strauman2001effects,
+  title={The effects of treatments for depression on perceived failure in self-regulation},
+  author={Strauman, Timothy J and Kolden, Gregory G and Stromquist, Valerie and Davis, Nancy and Kwapil, Lori and Heerey, Erin and Schneider, Kristin},
+  journal={Cognitive therapy and research},
+  volume={25},
+  pages={693--712},
+  year={2001},
+  publisher={Kluwer Academic Publishers-Plenum Publishers}
+}
+
+@article{heerey2005understanding,
+  title={Understanding teasing: Lessons from children with autism},
+  author={Heerey, Erin A and Capps, Lisa M and Keltner, Dacher and Kring, Ann M},
+  journal={Journal of Abnormal Child Psychology},
+  volume={33},
+  pages={55--68},
+  year={2005},
+  publisher={Kluwer Academic Publishers-Plenum Publishers}
+}
+
+@article{kolden2000therapeutic,
+  title={The Therapeutic Realizations Scale—Revised (TRS-R): Psychometric characteristics and relationship to treatment process and outcome},
+  author={Kolden, Gregory G and Strauman, Timothy J and Gittleman, Marci and Halverson, Jerry L and Heerey, Erin and Schneider, Kristin L},
+  journal={Journal of clinical psychology},
+  volume={56},
+  number={9},
+  pages={1207--1220},
+  year={2000},
+  publisher={John Wiley \& Sons, Inc. New York}
+}
+
+@article{heerey2011imagining,
+  title={Imagining the future: degraded representations of future rewards and events in schizophrenia.},
+  author={Heerey, Erin A and Matveeva, Tatyana M and Gold, James M},
+  journal={Journal of abnormal psychology},
+  volume={120},
+  number={2},
+  pages={483},
+  year={2011},
+  publisher={American Psychological Association}
+}
+
+@article{kolden2005early,
+  title={Early psychotherapy process and cluster B and C personality pathology: similarities and differences in interactions with symptomatic and interpersonal distress},
+  author={Kolden, Gregory G and Klein, Marjorie H and Strauman, Timothy J and Chisholm-Stockard, Sarah and Heerey, Erin and Schneider, Kristin L and Smith, Tracey L},
+  journal={Psychotherapy Research},
+  volume={15},
+  number={3},
+  pages={165--177},
+  year={2005},
+  publisher={Taylor \& Francis Group}
+}
+
+@article{heerey2010implicit,
+  title={Implicit learning of social predictions},
+  author={Heerey, Erin A and Velani, Hemma},
+  journal={Journal of Experimental Social Psychology},
+  volume={46},
+  number={3},
+  pages={577--581},
+  year={2010},
+  publisher={Academic Press}
+}
+
+@article{shore2011value,
+  title={The value of genuine and polite smiles.},
+  author={Shore, Danielle M and Heerey, Erin A},
+  journal={Emotion},
+  volume={11},
+  number={1},
+  pages={169},
+  year={2011},
+  publisher={American Psychological Association}
+}
+
+@article{lancaster2012comt,
+  title={COMT val158met predicts reward responsiveness in humans},
+  author={Lancaster, TM and Linden, DE and Heerey, EA},
+  journal={Genes, Brain and Behavior},
+  volume={11},
+  number={8},
+  pages={986--992},
+  year={2012},
+  publisher={Blackwell Publishing Ltd Oxford, UK}
+}
+
+@article{heerey2014learning,
+  title={Learning from social rewards predicts individual differences in self-reported social ability.},
+  author={Heerey, Erin A},
+  journal={Journal of Experimental Psychology: General},
+  volume={143},
+  number={1},
+  pages={332},
+  year={2014},
+  publisher={American Psychological Association}
+}
+
+@article{heerey2013predictive,
+  title={Predictive and reactive mechanisms in smile reciprocity},
+  author={Heerey, Erin A and Crossley, Helen M},
+  journal={Psychological science},
+  volume={24},
+  number={8},
+  pages={1446--1455},
+  year={2013},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
+}
+
+@article{shore2013social,
+  title={Do social utility judgments influence attentional processing?},
+  author={Shore, Danielle M and Heerey, Erin A},
+  journal={Cognition},
+  volume={129},
+  number={1},
+  pages={114--122},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{lancaster2014cacna1c,
+  title={CACNA1C risk variant affects reward responsiveness in healthy individuals},
+  author={Lancaster, TM and Heerey, EA and Mantripragada, K and Linden, David Edmund Johannes},
+  journal={Translational psychiatry},
+  volume={4},
+  number={10},
+  pages={e461--e461},
+  year={2014},
+  publisher={Nature Publishing Group}
+}
+
+@article{lancaster2015replication,
+  title={Replication study implicates COMT val158met polymorphism as a modulator of probabilistic reward learning},
+  author={Lancaster, TM and Heerey, EA and Mantripragada, K and Linden, David Edmund Johannes},
+  journal={Genes, Brain and Behavior},
+  volume={14},
+  number={6},
+  pages={486--492},
+  year={2015},
+  publisher={Blackwell Publishing Ltd Oxford, UK}
+}
+
+@article{heerey2015decoding,
+  title={Decoding the dyad: Challenges in the study of individual differences in social behavior},
+  author={Heerey, Erin A},
+  journal={Current Directions in Psychological Science},
+  volume={24},
+  number={4},
+  pages={285--291},
+  year={2015},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
+}
+
+@article{lui2016nature,
+  title={The nature of anhedonia and avolition in patients with first-episode schizophrenia},
+  author={Lui, SSY and Liu, ACY and Chui, WWH and Li, Z and Geng, F and Wang, Y and Heerey, EA and Cheung, EFC and Chan, RCK},
+  journal={Psychological medicine},
+  volume={46},
+  number={2},
+  pages={437--447},
+  year={2016},
+  publisher={Cambridge University Press}
+}
+
+@article{lui2016affective,
+  title={Affective experience and motivated behavior in schizophrenia spectrum disorders: Evidence from clinical and nonclinical samples.},
+  author={Lui, Simon SY and Shi, Yan-fang and Au, Angie CW and Li, Zhi and Tsui, Chi F and Chan, Constance KY and Leung, Meranda MW and Wong, Peony TY and Wang, Yi and Yan, Chao and others},
+  journal={Neuropsychology},
+  volume={30},
+  number={6},
+  pages={673},
+  year={2016},
+  publisher={American Psychological Association}
+}
+
+@article{kirsch2016impact,
+  title={The impact of experience on affective responses during action observation},
+  author={Kirsch, Louise P and Snagg, Arielle and Heerey, Erin and Cross, Emily S},
+  journal={Plos one},
+  volume={11},
+  number={5},
+  pages={e0154681},
+  year={2016},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{xie2018dissociation,
+  title={Dissociation between affective experience and motivated behaviour in schizophrenia patients and their unaffected first-degree relatives and schizotypal individuals},
+  author={Xie, Dong-jie and Lui, Simon SY and Geng, Fu-lei and Yang, Zhuo-ya and Zou, Ying-min and Li, Ying and Yeung, Hera KH and Cheung, Eric FC and Heerey, Erin A and Chan, Raymond CK},
+  journal={Psychological Medicine},
+  volume={48},
+  number={9},
+  pages={1474--1483},
+  year={2018},
+  publisher={Cambridge University Press}
+}
+
+@article{gilder2018role,
+  title={The role of experimenter belief in social priming},
+  author={Gilder, Thandiwe SE and Heerey, Erin A},
+  journal={Psychological science},
+  volume={29},
+  number={3},
+  pages={403--417},
+  year={2018},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
+}
+
+@article{catalano2018valuation,
+  title={The valuation of social rewards in schizophrenia.},
+  author={Catalano, Lauren T and Heerey, Erin A and Gold, James M},
+  journal={Journal of abnormal psychology},
+  volume={127},
+  number={6},
+  pages={602},
+  year={2018},
+  publisher={American Psychological Association}
+}
+
+@article{beston2018social,
+  title={Social feedback interferes with implicit rule learning: Evidence from event-related brain potentials},
+  author={Beston, Philippa J and Barbet, C{\'e}cile and Heerey, Erin A and Thierry, Guillaume},
+  journal={Cognitive, Affective, \& Behavioral Neuroscience},
+  volume={18},
+  pages={1248--1258},
+  year={2018},
+  publisher={Springer US}
+}
+
+@article{heerey2019subjective,
+  title={The subjective value of a smile alters social behaviour},
+  author={Heerey, Erin A and Gilder, Thandiwe SE},
+  journal={PloS one},
+  volume={14},
+  number={12},
+  pages={e0225284},
+  year={2019},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{wang2020emotion,
+  title={Emotion--behavior decoupling in individuals with schizophrenia, bipolar disorder, and major depressive disorder.},
+  author={Wang, Yan-yu and Ge, Mao-hong and Zhu, Guo-hui and Jiang, Neng-zhi and Wang, Gui-zhen and Lv, Shi-xin and Zhang, Qin and Guo, Jian-nan and Tian, Xue and Lui, Simon SY and others},
+  journal={Journal of Abnormal Psychology},
+  volume={129},
+  number={4},
+  pages={331},
+  year={2020},
+  publisher={American Psychological Association}
+}
+
+@article{clerke2021influence,
+  title={The influence of similarity and mimicry on decisions to trust},
+  author={Clerke, Alexa S and Heerey, Erin A},
+  journal={Collabra: Psychology},
+  volume={7},
+  number={1},
+  pages={23441},
+  year={2021},
+  publisher={University of California Press}
+}
+
+@article{jones2022co,
+  title={Co-rumination in social networks},
+  author={Jones, Samantha M and Heerey, Erin A},
+  journal={Emerging Adulthood},
+  volume={10},
+  number={6},
+  pages={1345--1360},
+  year={2022},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+@article{clerke2023impact,
+  title={The Impact of Social Media Salience on the Subjective Value of Social Cues},
+  author={Clerke, Alexa S and Heerey, Erin A},
+  journal={Social Psychological and Personality Science},
+  volume={14},
+  number={6},
+  pages={738--750},
+  year={2023},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
