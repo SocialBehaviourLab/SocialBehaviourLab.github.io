@@ -53,8 +53,8 @@ body {
   line-height: 1.6;
   color: var(--text-primary);
   background-color: var(--background-primary);
-  margin: auto;
-  padding: 10;
+  margin: 50px;
+  padding: 10px;
 }
 
 /* ===== TYPOGRAPHY ===== */
